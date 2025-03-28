@@ -1,1 +1,1 @@
-# JavaScript30
+Whack A Mole From JavaScript30
